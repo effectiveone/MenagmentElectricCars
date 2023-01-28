@@ -15,19 +15,6 @@ Tech Stack
 ###Frontend: We used React to build the frontend of the application, along with various libraries such as Material-UI, Emotion, and Leaflet.
 ###Backend: We used Node.js as the backend of the application, along with Express.js and MongoDB.
 
-##Getting Started
-To get started, you'll need to have Node.js and MongoDB installed on your machine. Once you have these, you can clone the repository and run the following commands:
-
-``` npm install ```
-This command will install all the necessary dependencies for the project.
-
-```
-npm run start```
-This command will start the development server for the frontend.
-
-```npm run server```
-This command will start the server for the backend.
-
 ## Screenshots
 ![Design preview for the Entertainment web app coding challenge](./cars/car1.webp)
 ![Design preview for the Entertainment web app coding challenge](./cars/car2.webp)
@@ -35,6 +22,19 @@ This command will start the server for the backend.
 ![Design preview for the Entertainment web app coding challenge](./cars/car4.webp)
 ![Design preview for the Entertainment web app coding challenge](./cars/car5.webp)
 ![Design preview for the Entertainment web app coding challenge](./cars/car6.webp)
+
+##Getting Started
+To get started, you'll need to have Node.js and MongoDB installed on your machine. Once you have these, you can clone the repository and run the following commands:
+
+``` npm install ```
+This command will install all the necessary dependencies for the project.
+
+``` npm run start```
+This command will start the development server for the frontend.
+
+```npm run server```
+This command will start the server for the backend.
+
 
 ## Contributions
 We welcome contributions to the project! If you have any ideas or issues you'd like to report, feel free to create a new issue or pull request.
