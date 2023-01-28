@@ -4,3 +4,9 @@
 [submodule "Back-end"]
 	path = Back-end
 	url = ./Back-end
+[submodule "back-end-menagment-car"]
+	path = back-end-menagment-car
+	url = https://github.com/effectiveone/back-end-menagment-car.git
+[submodule "Front-end-managment-car"]
+	path = Front-end-managment-car
+	url = https://github.com/effectiveone/Front-end-managment-car.git
