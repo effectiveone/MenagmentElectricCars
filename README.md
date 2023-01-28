@@ -29,10 +29,12 @@ This command will start the development server for the frontend.
 This command will start the server for the backend.
 
 ## Screenshots
-![Design preview for the Entertainment web app coding challenge](./assets/imdb1.png)
-![Design preview for the Entertainment web app coding challenge](./assets/imdb2.png)
-![Design preview for the Entertainment web app coding challenge](./assets/imdb3.png)
-![Design preview for the Entertainment web app coding challenge](./assets/imdb4.png)
+![Design preview for the Entertainment web app coding challenge](./cars/car1.webp)
+![Design preview for the Entertainment web app coding challenge](./cars/car2.webp)
+![Design preview for the Entertainment web app coding challenge](./cars/car3.webp)
+![Design preview for the Entertainment web app coding challenge](./cars/car4.webp)
+![Design preview for the Entertainment web app coding challenge](./cars/car5.webp)
+![Design preview for the Entertainment web app coding challenge](./cars/car6.webp)
 
 ## Contributions
 We welcome contributions to the project! If you have any ideas or issues you'd like to report, feel free to create a new issue or pull request.
