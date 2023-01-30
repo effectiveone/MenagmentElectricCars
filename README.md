@@ -1,4 +1,4 @@
- <h1 align="center">React, Material UI, SASS, Redux, Jest, React Testing Library, Prettier, esLint, Boilerplate</h1>
+ <h1 align="center">MangoDb, Express, React, Node, Material UI, SASS, Redux, Jest, React Testing Library, Prettier, esLint, Boilerplate</h1>
 
 
 ## Electric Cars Management System
@@ -16,12 +16,15 @@ Tech Stack
 ###Backend: We used Node.js as the backend of the application, along with Express.js and MongoDB.
 
 ## Screenshots
-![Design preview for the Entertainment web app coding challenge](./cars/car1.webp)
-![Design preview for the Entertainment web app coding challenge](./cars/car2.webp)
-![Design preview for the Entertainment web app coding challenge](./cars/car3.webp)
-![Design preview for the Entertainment web app coding challenge](./cars/car4.webp)
-![Design preview for the Entertainment web app coding challenge](./cars/car5.webp)
-![Design preview for the Entertainment web app coding challenge](./cars/car6.webp)
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 1fr);">
+  <img src="./cars/car1.webp" alt="car1">
+  <img src="./cars/car2.webp" alt="car2">
+  <img src="./cars/car3.webp" alt="car3">
+  <img src="./cars/car4.webp" alt="car4">
+  <img src="./cars/car5.webp" alt="car5">
+  <img src="./cars/car6.webp" alt="car6">
+</div>
+
 
 ##Getting Started
 To get started, you'll need to have Node.js and MongoDB installed on your machine. Once you have these, you can clone the repository and run the following commands:
