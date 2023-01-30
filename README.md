@@ -46,7 +46,6 @@ We welcome contributions to the project! If you have any ideas or issues you'd l
 In the future, we plan to add new features to the application, such as the ability to make reservations and view statistics about the usage of the cars.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
+All rights reserved
 ##👨‍💻 Connect with me
 Konrad.gruca90@gmail.com
